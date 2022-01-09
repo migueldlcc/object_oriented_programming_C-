@@ -1,0 +1,17 @@
+C:\Users\Chris Merritt\Desktop\COMS 201 - F2019\Week 12\COMS201Exercise14WinForms\bin\Debug\COMS201Exercise14WinForms.exe.config
+C:\Users\Chris Merritt\Desktop\COMS 201 - F2019\Week 12\COMS201Exercise14WinForms\bin\Debug\COMS201Exercise14WinForms.exe
+C:\Users\Chris Merritt\Desktop\COMS 201 - F2019\Week 12\COMS201Exercise14WinForms\bin\Debug\COMS201Exercise14WinForms.pdb
+C:\Users\Chris Merritt\Desktop\COMS 201 - F2019\Week 12\COMS201Exercise14WinForms\obj\Debug\COMS201Exercise14WinForms.csprojAssemblyReference.cache
+C:\Users\Chris Merritt\Desktop\COMS 201 - F2019\Week 12\COMS201Exercise14WinForms\obj\Debug\COMS201Exercise14WinForms.Properties.Resources.resources
+C:\Users\Chris Merritt\Desktop\COMS 201 - F2019\Week 12\COMS201Exercise14WinForms\obj\Debug\COMS201Exercise14WinForms.csproj.GenerateResource.cache
+C:\Users\Chris Merritt\Desktop\COMS 201 - F2019\Week 12\COMS201Exercise14WinForms\obj\Debug\COMS201Exercise14WinForms.exe
+C:\Users\Chris Merritt\Desktop\COMS 201 - F2019\Week 12\COMS201Exercise14WinForms\obj\Debug\COMS201Exercise14WinForms.pdb
+C:\Users\migue\Downloads\COMS201Exercise14WinForms\COMS201Exercise14WinForms\obj\Debug\COMS201Exercise14WinForms.csprojAssemblyReference.cache
+C:\Users\migue\Downloads\COMS201Exercise14WinForms\COMS201Exercise14WinForms\obj\Debug\COMS201Exercise14WinForms.Properties.Resources.resources
+C:\Users\migue\Downloads\COMS201Exercise14WinForms\COMS201Exercise14WinForms\obj\Debug\COMS201Exercise14WinForms.csproj.GenerateResource.cache
+C:\Users\migue\Downloads\COMS201Exercise14WinForms\COMS201Exercise14WinForms\obj\Debug\COMS201Exercise14WinForms.csproj.CoreCompileInputs.cache
+C:\Users\migue\Downloads\COMS201Exercise14WinForms\COMS201Exercise14WinForms\obj\Debug\COMS201Exercise14WinForms.exe
+C:\Users\migue\Downloads\COMS201Exercise14WinForms\COMS201Exercise14WinForms\obj\Debug\COMS201Exercise14WinForms.pdb
+C:\Users\migue\Downloads\COMS201Exercise14WinForms\COMS201Exercise14WinForms\bin\Debug\COMS201Exercise14WinForms.exe.config
+C:\Users\migue\Downloads\COMS201Exercise14WinForms\COMS201Exercise14WinForms\bin\Debug\COMS201Exercise14WinForms.exe
+C:\Users\migue\Downloads\COMS201Exercise14WinForms\COMS201Exercise14WinForms\bin\Debug\COMS201Exercise14WinForms.pdb

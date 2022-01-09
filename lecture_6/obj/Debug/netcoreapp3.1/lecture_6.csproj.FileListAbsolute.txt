@@ -1,0 +1,13 @@
+C:\Users\migue\OneDrive\Documentos\estados_unidos\SOPHOMORE YEAR\coms201\lecture_6\bin\Debug\netcoreapp3.1\lecture_6.exe
+C:\Users\migue\OneDrive\Documentos\estados_unidos\SOPHOMORE YEAR\coms201\lecture_6\bin\Debug\netcoreapp3.1\lecture_6.deps.json
+C:\Users\migue\OneDrive\Documentos\estados_unidos\SOPHOMORE YEAR\coms201\lecture_6\bin\Debug\netcoreapp3.1\lecture_6.runtimeconfig.json
+C:\Users\migue\OneDrive\Documentos\estados_unidos\SOPHOMORE YEAR\coms201\lecture_6\bin\Debug\netcoreapp3.1\lecture_6.runtimeconfig.dev.json
+C:\Users\migue\OneDrive\Documentos\estados_unidos\SOPHOMORE YEAR\coms201\lecture_6\bin\Debug\netcoreapp3.1\lecture_6.dll
+C:\Users\migue\OneDrive\Documentos\estados_unidos\SOPHOMORE YEAR\coms201\lecture_6\bin\Debug\netcoreapp3.1\lecture_6.pdb
+C:\Users\migue\OneDrive\Documentos\estados_unidos\SOPHOMORE YEAR\coms201\lecture_6\obj\Debug\netcoreapp3.1\lecture_6.csprojAssemblyReference.cache
+C:\Users\migue\OneDrive\Documentos\estados_unidos\SOPHOMORE YEAR\coms201\lecture_6\obj\Debug\netcoreapp3.1\lecture_6.AssemblyInfoInputs.cache
+C:\Users\migue\OneDrive\Documentos\estados_unidos\SOPHOMORE YEAR\coms201\lecture_6\obj\Debug\netcoreapp3.1\lecture_6.AssemblyInfo.cs
+C:\Users\migue\OneDrive\Documentos\estados_unidos\SOPHOMORE YEAR\coms201\lecture_6\obj\Debug\netcoreapp3.1\lecture_6.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Documentos\estados_unidos\SOPHOMORE YEAR\coms201\lecture_6\obj\Debug\netcoreapp3.1\lecture_6.dll
+C:\Users\migue\OneDrive\Documentos\estados_unidos\SOPHOMORE YEAR\coms201\lecture_6\obj\Debug\netcoreapp3.1\lecture_6.pdb
+C:\Users\migue\OneDrive\Documentos\estados_unidos\SOPHOMORE YEAR\coms201\lecture_6\obj\Debug\netcoreapp3.1\lecture_6.genruntimeconfig.cache

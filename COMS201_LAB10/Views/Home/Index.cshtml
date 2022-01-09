@@ -1,0 +1,45 @@
+﻿@using COMS201_LAB10.Models
+@model List<Race>
+@{
+    ViewData["Title"] = "COMS201_LAB10";
+}
+
+<div class="text-left">
+    <form method="post">
+        <table style="width:100%;">
+            <tr>
+                <td style="width:200px;color:ghostwhite;background-color:darkslategray;">Race Name</td>
+                <td style="width:300px;color:ghostwhite;background-color:darkslategray;">Date / Time</td>
+                <td colspan="2" style="width:300px;color:ghostwhite;background-color:darkslategray;">Type</td>
+            </tr>
+
+            @{ foreach (Race race in Model)
+                {
+                    <tr>
+                        <td>@race.Name</td>
+                        <td>@race.StartTime.ToString("yyyy-MM-dd hh:mm tt")</td>
+                        <td colspan="2">@race.Type.ToString()</td>
+                    </tr>
+                }
+            }
+
+            <tr>
+                <td colspan="4" style="color:ghostwhite;background-color:darkslategray;">Enter new races here:</td>
+            </tr>
+            <tr>
+                <td valign="middle" style="padding:2px;"><input type="text" name="txtRaceName" value="" style="height:30px;width: 100%; min-width: 100%;" /></td>
+                <td valign="middle" style="padding:2px;"><input type="text" name="txtRaceDate" value="" style="height:30px;width: 240px; max-width: 100%;" /></td>
+                <td  style="padding:2px;">
+                    <select style="height:30px;width:160px;" name="optRaceType">
+                        <option value="0">Marathon</option>
+                        <option value="1">Automobile</option>
+                        <option value="2">Motorcycle</option>
+                    </select>                   
+                </td>
+                <td valign="top">
+                    <button class="btn" type="submit">Submit</button>
+                </td>
+            </tr>
+        </table>
+    </form>
+</div>

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Facade_Lab/1.0.0": {
+        "dependencies": {
+          "Concepts2Code": "1.0.0"
+        },
+        "runtime": {
+          "Facade_Lab.dll": {}
+        }
+      },
+      "Concepts2Code/1.0.0": {
+        "runtime": {
+          "Concepts2Code.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Facade_Lab/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Concepts2Code/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

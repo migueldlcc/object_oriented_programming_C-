@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "COMS201_LAB8/1.0.0": {
+        "runtime": {
+          "COMS201_LAB8.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "COMS201_LAB8/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

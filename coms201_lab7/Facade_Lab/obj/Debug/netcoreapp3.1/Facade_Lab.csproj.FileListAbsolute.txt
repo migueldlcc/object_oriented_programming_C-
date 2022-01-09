@@ -1,0 +1,52 @@
+C:\Users\cmerritt\Desktop\CS_F2020\COMS 201 - F2020\Week 10\Facade_Lab\obj\Debug\netcoreapp3.1\Facade_Lab.csprojAssemblyReference.cache
+C:\Users\cmerritt\Desktop\CS_F2020\COMS 201 - F2020\Week 10\Facade_Lab\obj\Debug\netcoreapp3.1\Facade_Lab.AssemblyInfoInputs.cache
+C:\Users\cmerritt\Desktop\CS_F2020\COMS 201 - F2020\Week 10\Facade_Lab\obj\Debug\netcoreapp3.1\Facade_Lab.AssemblyInfo.cs
+C:\Users\cmerritt\Desktop\CS_F2020\COMS 201 - F2020\Week 10\Facade_Lab\obj\Debug\netcoreapp3.1\Facade_Lab.csproj.CoreCompileInputs.cache
+F:\CS_F2020\COMS 201 - F2020\Week 10\LAB_7\Facade_Lab\obj\Debug\netcoreapp3.1\Facade_Lab.csprojAssemblyReference.cache
+F:\CS_F2020\COMS 201 - F2020\Week 10\LAB_7\Facade_Lab\obj\Debug\netcoreapp3.1\Facade_Lab.AssemblyInfoInputs.cache
+F:\CS_F2020\COMS 201 - F2020\Week 10\LAB_7\Facade_Lab\obj\Debug\netcoreapp3.1\Facade_Lab.AssemblyInfo.cs
+F:\CS_F2020\COMS 201 - F2020\Week 10\LAB_7\Facade_Lab\obj\Debug\netcoreapp3.1\Facade_Lab.csproj.CoreCompileInputs.cache
+F:\CS_F2020\COMS 201 - F2020\Week 10\LAB_7\Facade_Lab\bin\Debug\netcoreapp3.1\Facade_Lab.exe
+F:\CS_F2020\COMS 201 - F2020\Week 10\LAB_7\Facade_Lab\bin\Debug\netcoreapp3.1\Facade_Lab.deps.json
+F:\CS_F2020\COMS 201 - F2020\Week 10\LAB_7\Facade_Lab\bin\Debug\netcoreapp3.1\Facade_Lab.runtimeconfig.json
+F:\CS_F2020\COMS 201 - F2020\Week 10\LAB_7\Facade_Lab\bin\Debug\netcoreapp3.1\Facade_Lab.runtimeconfig.dev.json
+F:\CS_F2020\COMS 201 - F2020\Week 10\LAB_7\Facade_Lab\bin\Debug\netcoreapp3.1\Facade_Lab.dll
+F:\CS_F2020\COMS 201 - F2020\Week 10\LAB_7\Facade_Lab\bin\Debug\netcoreapp3.1\Facade_Lab.pdb
+F:\CS_F2020\COMS 201 - F2020\Week 10\LAB_7\Facade_Lab\bin\Debug\netcoreapp3.1\Concepts2Code.dll
+F:\CS_F2020\COMS 201 - F2020\Week 10\LAB_7\Facade_Lab\bin\Debug\netcoreapp3.1\Concepts2Code.pdb
+F:\CS_F2020\COMS 201 - F2020\Week 10\LAB_7\Facade_Lab\obj\Debug\netcoreapp3.1\Facade_Lab.csproj.CopyComplete
+F:\CS_F2020\COMS 201 - F2020\Week 10\LAB_7\Facade_Lab\obj\Debug\netcoreapp3.1\Facade_Lab.dll
+F:\CS_F2020\COMS 201 - F2020\Week 10\LAB_7\Facade_Lab\obj\Debug\netcoreapp3.1\Facade_Lab.pdb
+F:\CS_F2020\COMS 201 - F2020\Week 10\LAB_7\Facade_Lab\obj\Debug\netcoreapp3.1\Facade_Lab.genruntimeconfig.cache
+F:\CS_F2020\COMS 201 - F2020\Week 10\COMS201_LAB7\Facade_Lab\bin\Debug\netcoreapp3.1\Facade_Lab.exe
+F:\CS_F2020\COMS 201 - F2020\Week 10\COMS201_LAB7\Facade_Lab\bin\Debug\netcoreapp3.1\Facade_Lab.deps.json
+F:\CS_F2020\COMS 201 - F2020\Week 10\COMS201_LAB7\Facade_Lab\bin\Debug\netcoreapp3.1\Facade_Lab.runtimeconfig.json
+F:\CS_F2020\COMS 201 - F2020\Week 10\COMS201_LAB7\Facade_Lab\bin\Debug\netcoreapp3.1\Facade_Lab.runtimeconfig.dev.json
+F:\CS_F2020\COMS 201 - F2020\Week 10\COMS201_LAB7\Facade_Lab\bin\Debug\netcoreapp3.1\Facade_Lab.dll
+F:\CS_F2020\COMS 201 - F2020\Week 10\COMS201_LAB7\Facade_Lab\bin\Debug\netcoreapp3.1\Facade_Lab.pdb
+F:\CS_F2020\COMS 201 - F2020\Week 10\COMS201_LAB7\Facade_Lab\bin\Debug\netcoreapp3.1\Concepts2Code.dll
+F:\CS_F2020\COMS 201 - F2020\Week 10\COMS201_LAB7\Facade_Lab\bin\Debug\netcoreapp3.1\Concepts2Code.pdb
+F:\CS_F2020\COMS 201 - F2020\Week 10\COMS201_LAB7\Facade_Lab\obj\Debug\netcoreapp3.1\Facade_Lab.csprojAssemblyReference.cache
+F:\CS_F2020\COMS 201 - F2020\Week 10\COMS201_LAB7\Facade_Lab\obj\Debug\netcoreapp3.1\Facade_Lab.AssemblyInfoInputs.cache
+F:\CS_F2020\COMS 201 - F2020\Week 10\COMS201_LAB7\Facade_Lab\obj\Debug\netcoreapp3.1\Facade_Lab.AssemblyInfo.cs
+F:\CS_F2020\COMS 201 - F2020\Week 10\COMS201_LAB7\Facade_Lab\obj\Debug\netcoreapp3.1\Facade_Lab.csproj.CoreCompileInputs.cache
+F:\CS_F2020\COMS 201 - F2020\Week 10\COMS201_LAB7\Facade_Lab\obj\Debug\netcoreapp3.1\Facade_Lab.csproj.CopyComplete
+F:\CS_F2020\COMS 201 - F2020\Week 10\COMS201_LAB7\Facade_Lab\obj\Debug\netcoreapp3.1\Facade_Lab.dll
+F:\CS_F2020\COMS 201 - F2020\Week 10\COMS201_LAB7\Facade_Lab\obj\Debug\netcoreapp3.1\Facade_Lab.pdb
+F:\CS_F2020\COMS 201 - F2020\Week 10\COMS201_LAB7\Facade_Lab\obj\Debug\netcoreapp3.1\Facade_Lab.genruntimeconfig.cache
+C:\Users\migue\Downloads\COMS201_LAB7\Facade_Lab\bin\Debug\netcoreapp3.1\Facade_Lab.exe
+C:\Users\migue\Downloads\COMS201_LAB7\Facade_Lab\bin\Debug\netcoreapp3.1\Facade_Lab.deps.json
+C:\Users\migue\Downloads\COMS201_LAB7\Facade_Lab\bin\Debug\netcoreapp3.1\Facade_Lab.runtimeconfig.json
+C:\Users\migue\Downloads\COMS201_LAB7\Facade_Lab\bin\Debug\netcoreapp3.1\Facade_Lab.runtimeconfig.dev.json
+C:\Users\migue\Downloads\COMS201_LAB7\Facade_Lab\bin\Debug\netcoreapp3.1\Facade_Lab.dll
+C:\Users\migue\Downloads\COMS201_LAB7\Facade_Lab\bin\Debug\netcoreapp3.1\Facade_Lab.pdb
+C:\Users\migue\Downloads\COMS201_LAB7\Facade_Lab\bin\Debug\netcoreapp3.1\Concepts2Code.dll
+C:\Users\migue\Downloads\COMS201_LAB7\Facade_Lab\bin\Debug\netcoreapp3.1\Concepts2Code.pdb
+C:\Users\migue\Downloads\COMS201_LAB7\Facade_Lab\obj\Debug\netcoreapp3.1\Facade_Lab.csprojAssemblyReference.cache
+C:\Users\migue\Downloads\COMS201_LAB7\Facade_Lab\obj\Debug\netcoreapp3.1\Facade_Lab.AssemblyInfoInputs.cache
+C:\Users\migue\Downloads\COMS201_LAB7\Facade_Lab\obj\Debug\netcoreapp3.1\Facade_Lab.AssemblyInfo.cs
+C:\Users\migue\Downloads\COMS201_LAB7\Facade_Lab\obj\Debug\netcoreapp3.1\Facade_Lab.csproj.CoreCompileInputs.cache
+C:\Users\migue\Downloads\COMS201_LAB7\Facade_Lab\obj\Debug\netcoreapp3.1\Facade_Lab.csproj.CopyComplete
+C:\Users\migue\Downloads\COMS201_LAB7\Facade_Lab\obj\Debug\netcoreapp3.1\Facade_Lab.dll
+C:\Users\migue\Downloads\COMS201_LAB7\Facade_Lab\obj\Debug\netcoreapp3.1\Facade_Lab.pdb
+C:\Users\migue\Downloads\COMS201_LAB7\Facade_Lab\obj\Debug\netcoreapp3.1\Facade_Lab.genruntimeconfig.cache

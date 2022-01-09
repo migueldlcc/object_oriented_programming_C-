@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "coms201_lab6": {
+      "commandName": "Project",
+      "commandLineArgs": "C# coding is fun"
+    }
+  }
+}

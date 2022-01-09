@@ -1,0 +1,13 @@
+C:\Users\migue\OneDrive\Documentos\estados_unidos\SOPHOMORE YEAR\coms201\StructOrClass\bin\Debug\netcoreapp3.1\StructOrClass.exe
+C:\Users\migue\OneDrive\Documentos\estados_unidos\SOPHOMORE YEAR\coms201\StructOrClass\bin\Debug\netcoreapp3.1\StructOrClass.deps.json
+C:\Users\migue\OneDrive\Documentos\estados_unidos\SOPHOMORE YEAR\coms201\StructOrClass\bin\Debug\netcoreapp3.1\StructOrClass.runtimeconfig.json
+C:\Users\migue\OneDrive\Documentos\estados_unidos\SOPHOMORE YEAR\coms201\StructOrClass\bin\Debug\netcoreapp3.1\StructOrClass.runtimeconfig.dev.json
+C:\Users\migue\OneDrive\Documentos\estados_unidos\SOPHOMORE YEAR\coms201\StructOrClass\bin\Debug\netcoreapp3.1\StructOrClass.dll
+C:\Users\migue\OneDrive\Documentos\estados_unidos\SOPHOMORE YEAR\coms201\StructOrClass\bin\Debug\netcoreapp3.1\StructOrClass.pdb
+C:\Users\migue\OneDrive\Documentos\estados_unidos\SOPHOMORE YEAR\coms201\StructOrClass\obj\Debug\netcoreapp3.1\StructOrClass.csprojAssemblyReference.cache
+C:\Users\migue\OneDrive\Documentos\estados_unidos\SOPHOMORE YEAR\coms201\StructOrClass\obj\Debug\netcoreapp3.1\StructOrClass.AssemblyInfoInputs.cache
+C:\Users\migue\OneDrive\Documentos\estados_unidos\SOPHOMORE YEAR\coms201\StructOrClass\obj\Debug\netcoreapp3.1\StructOrClass.AssemblyInfo.cs
+C:\Users\migue\OneDrive\Documentos\estados_unidos\SOPHOMORE YEAR\coms201\StructOrClass\obj\Debug\netcoreapp3.1\StructOrClass.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Documentos\estados_unidos\SOPHOMORE YEAR\coms201\StructOrClass\obj\Debug\netcoreapp3.1\StructOrClass.dll
+C:\Users\migue\OneDrive\Documentos\estados_unidos\SOPHOMORE YEAR\coms201\StructOrClass\obj\Debug\netcoreapp3.1\StructOrClass.pdb
+C:\Users\migue\OneDrive\Documentos\estados_unidos\SOPHOMORE YEAR\coms201\StructOrClass\obj\Debug\netcoreapp3.1\StructOrClass.genruntimeconfig.cache

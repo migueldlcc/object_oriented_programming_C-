@@ -1,0 +1,76 @@
+C:\Users\Chris Merritt\source\repos\ShapeCalculator\ShapeCalculator\bin\Debug\netcoreapp3.0\ShapeCalculator.exe
+C:\Users\Chris Merritt\source\repos\ShapeCalculator\ShapeCalculator\bin\Debug\netcoreapp3.0\ShapeCalculator.deps.json
+C:\Users\Chris Merritt\source\repos\ShapeCalculator\ShapeCalculator\bin\Debug\netcoreapp3.0\ShapeCalculator.runtimeconfig.json
+C:\Users\Chris Merritt\source\repos\ShapeCalculator\ShapeCalculator\bin\Debug\netcoreapp3.0\ShapeCalculator.runtimeconfig.dev.json
+C:\Users\Chris Merritt\source\repos\ShapeCalculator\ShapeCalculator\bin\Debug\netcoreapp3.0\ShapeCalculator.dll
+C:\Users\Chris Merritt\source\repos\ShapeCalculator\ShapeCalculator\bin\Debug\netcoreapp3.0\ShapeCalculator.pdb
+C:\Users\Chris Merritt\source\repos\ShapeCalculator\ShapeCalculator\obj\Debug\netcoreapp3.0\ShapeCalculator.csprojAssemblyReference.cache
+C:\Users\Chris Merritt\source\repos\ShapeCalculator\ShapeCalculator\obj\Debug\netcoreapp3.0\ShapeCalculator.AssemblyInfoInputs.cache
+C:\Users\Chris Merritt\source\repos\ShapeCalculator\ShapeCalculator\obj\Debug\netcoreapp3.0\ShapeCalculator.AssemblyInfo.cs
+C:\Users\Chris Merritt\source\repos\ShapeCalculator\ShapeCalculator\obj\Debug\netcoreapp3.0\ShapeCalculator.dll
+C:\Users\Chris Merritt\source\repos\ShapeCalculator\ShapeCalculator\obj\Debug\netcoreapp3.0\ShapeCalculator.pdb
+C:\Users\Chris Merritt\source\repos\ShapeCalculator\ShapeCalculator\bin\Debug\netcoreapp3.0\ShapeAreaCalculator.dll
+C:\Users\Chris Merritt\source\repos\ShapeCalculator\ShapeCalculator\bin\Debug\netcoreapp3.0\ShapeAreaCalculator.pdb
+C:\Users\Chris Merritt\source\repos\ShapeCalculator\ShapeCalculator\obj\Debug\netcoreapp3.0\ShapeCalculator.csproj.CopyComplete
+C:\Users\cmerritt\Desktop\ShapeCalculator\ShapeCalculator\bin\Debug\netcoreapp3.0\ShapeCalculator.exe
+C:\Users\cmerritt\Desktop\ShapeCalculator\ShapeCalculator\bin\Debug\netcoreapp3.0\ShapeCalculator.deps.json
+C:\Users\cmerritt\Desktop\ShapeCalculator\ShapeCalculator\bin\Debug\netcoreapp3.0\ShapeCalculator.runtimeconfig.json
+C:\Users\cmerritt\Desktop\ShapeCalculator\ShapeCalculator\bin\Debug\netcoreapp3.0\ShapeCalculator.runtimeconfig.dev.json
+C:\Users\cmerritt\Desktop\ShapeCalculator\ShapeCalculator\bin\Debug\netcoreapp3.0\ShapeCalculator.dll
+C:\Users\cmerritt\Desktop\ShapeCalculator\ShapeCalculator\bin\Debug\netcoreapp3.0\ShapeCalculator.pdb
+C:\Users\cmerritt\Desktop\ShapeCalculator\ShapeCalculator\bin\Debug\netcoreapp3.0\ShapeAreaCalculator.dll
+C:\Users\cmerritt\Desktop\ShapeCalculator\ShapeCalculator\bin\Debug\netcoreapp3.0\ShapeAreaCalculator.pdb
+C:\Users\cmerritt\Desktop\ShapeCalculator\ShapeCalculator\obj\Debug\netcoreapp3.0\ShapeCalculator.csprojAssemblyReference.cache
+C:\Users\cmerritt\Desktop\ShapeCalculator\ShapeCalculator\obj\Debug\netcoreapp3.0\ShapeCalculator.AssemblyInfoInputs.cache
+C:\Users\cmerritt\Desktop\ShapeCalculator\ShapeCalculator\obj\Debug\netcoreapp3.0\ShapeCalculator.AssemblyInfo.cs
+C:\Users\cmerritt\Desktop\ShapeCalculator\ShapeCalculator\obj\Debug\netcoreapp3.0\ShapeCalculator.csproj.CopyComplete
+C:\Users\cmerritt\Desktop\ShapeCalculator\ShapeCalculator\obj\Debug\netcoreapp3.0\ShapeCalculator.dll
+C:\Users\cmerritt\Desktop\ShapeCalculator\ShapeCalculator\obj\Debug\netcoreapp3.0\ShapeCalculator.pdb
+F:\CS_F2020\COMS 201 - F2020\Week 04\ShapeCalculator\ShapeCalculator\bin\Debug\netcoreapp3.0\ShapeCalculator.exe
+F:\CS_F2020\COMS 201 - F2020\Week 04\ShapeCalculator\ShapeCalculator\bin\Debug\netcoreapp3.0\ShapeCalculator.deps.json
+F:\CS_F2020\COMS 201 - F2020\Week 04\ShapeCalculator\ShapeCalculator\bin\Debug\netcoreapp3.0\ShapeCalculator.runtimeconfig.json
+F:\CS_F2020\COMS 201 - F2020\Week 04\ShapeCalculator\ShapeCalculator\bin\Debug\netcoreapp3.0\ShapeCalculator.runtimeconfig.dev.json
+F:\CS_F2020\COMS 201 - F2020\Week 04\ShapeCalculator\ShapeCalculator\bin\Debug\netcoreapp3.0\ShapeCalculator.dll
+F:\CS_F2020\COMS 201 - F2020\Week 04\ShapeCalculator\ShapeCalculator\bin\Debug\netcoreapp3.0\ShapeCalculator.pdb
+F:\CS_F2020\COMS 201 - F2020\Week 04\ShapeCalculator\ShapeCalculator\bin\Debug\netcoreapp3.0\ShapeAreaCalculator.dll
+F:\CS_F2020\COMS 201 - F2020\Week 04\ShapeCalculator\ShapeCalculator\bin\Debug\netcoreapp3.0\ShapeAreaCalculator.pdb
+F:\CS_F2020\COMS 201 - F2020\Week 04\ShapeCalculator\ShapeCalculator\obj\Debug\netcoreapp3.0\ShapeCalculator.csprojAssemblyReference.cache
+F:\CS_F2020\COMS 201 - F2020\Week 04\ShapeCalculator\ShapeCalculator\obj\Debug\netcoreapp3.0\ShapeCalculator.AssemblyInfoInputs.cache
+F:\CS_F2020\COMS 201 - F2020\Week 04\ShapeCalculator\ShapeCalculator\obj\Debug\netcoreapp3.0\ShapeCalculator.AssemblyInfo.cs
+F:\CS_F2020\COMS 201 - F2020\Week 04\ShapeCalculator\ShapeCalculator\obj\Debug\netcoreapp3.0\ShapeCalculator.csproj.CoreCompileInputs.cache
+F:\CS_F2020\COMS 201 - F2020\Week 04\ShapeCalculator\ShapeCalculator\obj\Debug\netcoreapp3.0\ShapeCalculator.csproj.CopyComplete
+F:\CS_F2020\COMS 201 - F2020\Week 04\ShapeCalculator\ShapeCalculator\obj\Debug\netcoreapp3.0\ShapeCalculator.dll
+F:\CS_F2020\COMS 201 - F2020\Week 04\ShapeCalculator\ShapeCalculator\obj\Debug\netcoreapp3.0\ShapeCalculator.pdb
+F:\CS_F2020\COMS 201 - F2020\Week 04\ShapeCalculator\ShapeCalculator\obj\Debug\netcoreapp3.0\ShapeCalculator.genruntimeconfig.cache
+D:\CS_F2020\COMS 201 - F2020\Week 04\ShapeCalculator\ShapeCalculator\bin\Debug\netcoreapp3.0\ShapeCalculator.exe
+D:\CS_F2020\COMS 201 - F2020\Week 04\ShapeCalculator\ShapeCalculator\bin\Debug\netcoreapp3.0\ShapeCalculator.deps.json
+D:\CS_F2020\COMS 201 - F2020\Week 04\ShapeCalculator\ShapeCalculator\bin\Debug\netcoreapp3.0\ShapeCalculator.runtimeconfig.json
+D:\CS_F2020\COMS 201 - F2020\Week 04\ShapeCalculator\ShapeCalculator\bin\Debug\netcoreapp3.0\ShapeCalculator.runtimeconfig.dev.json
+D:\CS_F2020\COMS 201 - F2020\Week 04\ShapeCalculator\ShapeCalculator\bin\Debug\netcoreapp3.0\ShapeCalculator.dll
+D:\CS_F2020\COMS 201 - F2020\Week 04\ShapeCalculator\ShapeCalculator\bin\Debug\netcoreapp3.0\ShapeCalculator.pdb
+D:\CS_F2020\COMS 201 - F2020\Week 04\ShapeCalculator\ShapeCalculator\bin\Debug\netcoreapp3.0\ShapeAreaCalculator.dll
+D:\CS_F2020\COMS 201 - F2020\Week 04\ShapeCalculator\ShapeCalculator\bin\Debug\netcoreapp3.0\ShapeAreaCalculator.pdb
+D:\CS_F2020\COMS 201 - F2020\Week 04\ShapeCalculator\ShapeCalculator\obj\Debug\netcoreapp3.0\ShapeCalculator.csprojAssemblyReference.cache
+D:\CS_F2020\COMS 201 - F2020\Week 04\ShapeCalculator\ShapeCalculator\obj\Debug\netcoreapp3.0\ShapeCalculator.AssemblyInfoInputs.cache
+D:\CS_F2020\COMS 201 - F2020\Week 04\ShapeCalculator\ShapeCalculator\obj\Debug\netcoreapp3.0\ShapeCalculator.AssemblyInfo.cs
+D:\CS_F2020\COMS 201 - F2020\Week 04\ShapeCalculator\ShapeCalculator\obj\Debug\netcoreapp3.0\ShapeCalculator.csproj.CoreCompileInputs.cache
+D:\CS_F2020\COMS 201 - F2020\Week 04\ShapeCalculator\ShapeCalculator\obj\Debug\netcoreapp3.0\ShapeCalculator.csproj.CopyComplete
+D:\CS_F2020\COMS 201 - F2020\Week 04\ShapeCalculator\ShapeCalculator\obj\Debug\netcoreapp3.0\ShapeCalculator.dll
+D:\CS_F2020\COMS 201 - F2020\Week 04\ShapeCalculator\ShapeCalculator\obj\Debug\netcoreapp3.0\ShapeCalculator.pdb
+D:\CS_F2020\COMS 201 - F2020\Week 04\ShapeCalculator\ShapeCalculator\obj\Debug\netcoreapp3.0\ShapeCalculator.genruntimeconfig.cache
+C:\Users\migue\Downloads\COMS201_LAB2\COMS201_LAB2\ShapeCalculator\bin\Debug\netcoreapp3.0\ShapeCalculator.exe
+C:\Users\migue\Downloads\COMS201_LAB2\COMS201_LAB2\ShapeCalculator\bin\Debug\netcoreapp3.0\ShapeCalculator.deps.json
+C:\Users\migue\Downloads\COMS201_LAB2\COMS201_LAB2\ShapeCalculator\bin\Debug\netcoreapp3.0\ShapeCalculator.runtimeconfig.json
+C:\Users\migue\Downloads\COMS201_LAB2\COMS201_LAB2\ShapeCalculator\bin\Debug\netcoreapp3.0\ShapeCalculator.runtimeconfig.dev.json
+C:\Users\migue\Downloads\COMS201_LAB2\COMS201_LAB2\ShapeCalculator\bin\Debug\netcoreapp3.0\ShapeCalculator.dll
+C:\Users\migue\Downloads\COMS201_LAB2\COMS201_LAB2\ShapeCalculator\bin\Debug\netcoreapp3.0\ShapeCalculator.pdb
+C:\Users\migue\Downloads\COMS201_LAB2\COMS201_LAB2\ShapeCalculator\bin\Debug\netcoreapp3.0\ShapeAreaCalculator.dll
+C:\Users\migue\Downloads\COMS201_LAB2\COMS201_LAB2\ShapeCalculator\bin\Debug\netcoreapp3.0\ShapeAreaCalculator.pdb
+C:\Users\migue\Downloads\COMS201_LAB2\COMS201_LAB2\ShapeCalculator\obj\Debug\netcoreapp3.0\ShapeCalculator.csprojAssemblyReference.cache
+C:\Users\migue\Downloads\COMS201_LAB2\COMS201_LAB2\ShapeCalculator\obj\Debug\netcoreapp3.0\ShapeCalculator.AssemblyInfoInputs.cache
+C:\Users\migue\Downloads\COMS201_LAB2\COMS201_LAB2\ShapeCalculator\obj\Debug\netcoreapp3.0\ShapeCalculator.AssemblyInfo.cs
+C:\Users\migue\Downloads\COMS201_LAB2\COMS201_LAB2\ShapeCalculator\obj\Debug\netcoreapp3.0\ShapeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\migue\Downloads\COMS201_LAB2\COMS201_LAB2\ShapeCalculator\obj\Debug\netcoreapp3.0\ShapeCalculator.csproj.CopyComplete
+C:\Users\migue\Downloads\COMS201_LAB2\COMS201_LAB2\ShapeCalculator\obj\Debug\netcoreapp3.0\ShapeCalculator.dll
+C:\Users\migue\Downloads\COMS201_LAB2\COMS201_LAB2\ShapeCalculator\obj\Debug\netcoreapp3.0\ShapeCalculator.pdb
+C:\Users\migue\Downloads\COMS201_LAB2\COMS201_LAB2\ShapeCalculator\obj\Debug\netcoreapp3.0\ShapeCalculator.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\migue\OneDrive\Documentos\estados_unidos\SOPHOMORE YEAR\coms201\coms201_lab4\obj\Debug\netcoreapp3.1\coms201_lab4.csprojAssemblyReference.cache
+C:\Users\migue\OneDrive\Documentos\estados_unidos\SOPHOMORE YEAR\coms201\coms201_lab4\obj\Debug\netcoreapp3.1\coms201_lab4.AssemblyInfoInputs.cache
+C:\Users\migue\OneDrive\Documentos\estados_unidos\SOPHOMORE YEAR\coms201\coms201_lab4\obj\Debug\netcoreapp3.1\coms201_lab4.AssemblyInfo.cs
+C:\Users\migue\OneDrive\Documentos\estados_unidos\SOPHOMORE YEAR\coms201\coms201_lab4\obj\Debug\netcoreapp3.1\coms201_lab4.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Documentos\estados_unidos\SOPHOMORE YEAR\coms201\coms201_lab4\bin\Debug\netcoreapp3.1\coms201_lab4.exe
+C:\Users\migue\OneDrive\Documentos\estados_unidos\SOPHOMORE YEAR\coms201\coms201_lab4\bin\Debug\netcoreapp3.1\coms201_lab4.deps.json
+C:\Users\migue\OneDrive\Documentos\estados_unidos\SOPHOMORE YEAR\coms201\coms201_lab4\bin\Debug\netcoreapp3.1\coms201_lab4.runtimeconfig.json
+C:\Users\migue\OneDrive\Documentos\estados_unidos\SOPHOMORE YEAR\coms201\coms201_lab4\bin\Debug\netcoreapp3.1\coms201_lab4.runtimeconfig.dev.json
+C:\Users\migue\OneDrive\Documentos\estados_unidos\SOPHOMORE YEAR\coms201\coms201_lab4\bin\Debug\netcoreapp3.1\coms201_lab4.dll
+C:\Users\migue\OneDrive\Documentos\estados_unidos\SOPHOMORE YEAR\coms201\coms201_lab4\bin\Debug\netcoreapp3.1\coms201_lab4.pdb
+C:\Users\migue\OneDrive\Documentos\estados_unidos\SOPHOMORE YEAR\coms201\coms201_lab4\obj\Debug\netcoreapp3.1\coms201_lab4.dll
+C:\Users\migue\OneDrive\Documentos\estados_unidos\SOPHOMORE YEAR\coms201\coms201_lab4\obj\Debug\netcoreapp3.1\coms201_lab4.pdb
+C:\Users\migue\OneDrive\Documentos\estados_unidos\SOPHOMORE YEAR\coms201\coms201_lab4\obj\Debug\netcoreapp3.1\coms201_lab4.genruntimeconfig.cache

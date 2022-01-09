@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "COMS201_E52", "COMS201_E52.csproj", "{C94AB184-6B42-4F0A-AD59-55DBD9C427C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageLogger", "New folder\MessageLogger\MessageLogger.csproj", "{51675F63-D8F6-4AFE-A9DC-F8FBC18E2B7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C94AB184-6B42-4F0A-AD59-55DBD9C427C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C94AB184-6B42-4F0A-AD59-55DBD9C427C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C94AB184-6B42-4F0A-AD59-55DBD9C427C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C94AB184-6B42-4F0A-AD59-55DBD9C427C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51675F63-D8F6-4AFE-A9DC-F8FBC18E2B7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51675F63-D8F6-4AFE-A9DC-F8FBC18E2B7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51675F63-D8F6-4AFE-A9DC-F8FBC18E2B7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51675F63-D8F6-4AFE-A9DC-F8FBC18E2B7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {981C4494-A990-494D-8375-B3FD0B783554}
+	EndGlobalSection
+EndGlobal

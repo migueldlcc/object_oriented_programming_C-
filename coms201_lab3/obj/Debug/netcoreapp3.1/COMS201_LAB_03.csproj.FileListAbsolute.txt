@@ -1,0 +1,26 @@
+C:\COMS201\PROJECTS\COMS201_LAB_03\bin\Debug\netcoreapp3.1\COMS201_LAB_03.exe
+C:\COMS201\PROJECTS\COMS201_LAB_03\bin\Debug\netcoreapp3.1\COMS201_LAB_03.deps.json
+C:\COMS201\PROJECTS\COMS201_LAB_03\bin\Debug\netcoreapp3.1\COMS201_LAB_03.runtimeconfig.json
+C:\COMS201\PROJECTS\COMS201_LAB_03\bin\Debug\netcoreapp3.1\COMS201_LAB_03.runtimeconfig.dev.json
+C:\COMS201\PROJECTS\COMS201_LAB_03\bin\Debug\netcoreapp3.1\COMS201_LAB_03.dll
+C:\COMS201\PROJECTS\COMS201_LAB_03\bin\Debug\netcoreapp3.1\COMS201_LAB_03.pdb
+C:\COMS201\PROJECTS\COMS201_LAB_03\obj\Debug\netcoreapp3.1\COMS201_LAB_03.csprojAssemblyReference.cache
+C:\COMS201\PROJECTS\COMS201_LAB_03\obj\Debug\netcoreapp3.1\COMS201_LAB_03.AssemblyInfoInputs.cache
+C:\COMS201\PROJECTS\COMS201_LAB_03\obj\Debug\netcoreapp3.1\COMS201_LAB_03.AssemblyInfo.cs
+C:\COMS201\PROJECTS\COMS201_LAB_03\obj\Debug\netcoreapp3.1\COMS201_LAB_03.csproj.CoreCompileInputs.cache
+C:\COMS201\PROJECTS\COMS201_LAB_03\obj\Debug\netcoreapp3.1\COMS201_LAB_03.dll
+C:\COMS201\PROJECTS\COMS201_LAB_03\obj\Debug\netcoreapp3.1\COMS201_LAB_03.pdb
+C:\COMS201\PROJECTS\COMS201_LAB_03\obj\Debug\netcoreapp3.1\COMS201_LAB_03.genruntimeconfig.cache
+C:\Users\migue\OneDrive\Documentos\estados_unidos\SOPHOMORE YEAR\coms201\coms201_lab3\obj\Debug\netcoreapp3.1\COMS201_LAB_03.csprojAssemblyReference.cache
+C:\Users\migue\OneDrive\Documentos\estados_unidos\SOPHOMORE YEAR\coms201\coms201_lab3\obj\Debug\netcoreapp3.1\COMS201_LAB_03.AssemblyInfoInputs.cache
+C:\Users\migue\OneDrive\Documentos\estados_unidos\SOPHOMORE YEAR\coms201\coms201_lab3\obj\Debug\netcoreapp3.1\COMS201_LAB_03.AssemblyInfo.cs
+C:\Users\migue\OneDrive\Documentos\estados_unidos\SOPHOMORE YEAR\coms201\coms201_lab3\obj\Debug\netcoreapp3.1\COMS201_LAB_03.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Documentos\estados_unidos\SOPHOMORE YEAR\coms201\coms201_lab3\obj\Debug\netcoreapp3.1\COMS201_LAB_03.dll
+C:\Users\migue\OneDrive\Documentos\estados_unidos\SOPHOMORE YEAR\coms201\coms201_lab3\obj\Debug\netcoreapp3.1\COMS201_LAB_03.pdb
+C:\Users\migue\OneDrive\Documentos\estados_unidos\SOPHOMORE YEAR\coms201\coms201_lab3\bin\Debug\netcoreapp3.1\COMS201_LAB_03.exe
+C:\Users\migue\OneDrive\Documentos\estados_unidos\SOPHOMORE YEAR\coms201\coms201_lab3\bin\Debug\netcoreapp3.1\COMS201_LAB_03.deps.json
+C:\Users\migue\OneDrive\Documentos\estados_unidos\SOPHOMORE YEAR\coms201\coms201_lab3\bin\Debug\netcoreapp3.1\COMS201_LAB_03.runtimeconfig.json
+C:\Users\migue\OneDrive\Documentos\estados_unidos\SOPHOMORE YEAR\coms201\coms201_lab3\bin\Debug\netcoreapp3.1\COMS201_LAB_03.runtimeconfig.dev.json
+C:\Users\migue\OneDrive\Documentos\estados_unidos\SOPHOMORE YEAR\coms201\coms201_lab3\bin\Debug\netcoreapp3.1\COMS201_LAB_03.dll
+C:\Users\migue\OneDrive\Documentos\estados_unidos\SOPHOMORE YEAR\coms201\coms201_lab3\bin\Debug\netcoreapp3.1\COMS201_LAB_03.pdb
+C:\Users\migue\OneDrive\Documentos\estados_unidos\SOPHOMORE YEAR\coms201\coms201_lab3\obj\Debug\netcoreapp3.1\COMS201_LAB_03.genruntimeconfig.cache

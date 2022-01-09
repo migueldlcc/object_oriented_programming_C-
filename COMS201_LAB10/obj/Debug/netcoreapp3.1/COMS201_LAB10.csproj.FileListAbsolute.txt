@@ -1,0 +1,44 @@
+G:\CS_F2020\COMS 201 - F2020\Week 13\COMS201_LAB10\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\CS_F2020\COMS 201 - F2020\Week 13\COMS201_LAB10\bin\Debug\netcoreapp3.1\appsettings.json
+G:\CS_F2020\COMS 201 - F2020\Week 13\COMS201_LAB10\bin\Debug\netcoreapp3.1\COMS201_LAB10.exe
+G:\CS_F2020\COMS 201 - F2020\Week 13\COMS201_LAB10\bin\Debug\netcoreapp3.1\COMS201_LAB10.deps.json
+G:\CS_F2020\COMS 201 - F2020\Week 13\COMS201_LAB10\bin\Debug\netcoreapp3.1\COMS201_LAB10.runtimeconfig.json
+G:\CS_F2020\COMS 201 - F2020\Week 13\COMS201_LAB10\bin\Debug\netcoreapp3.1\COMS201_LAB10.runtimeconfig.dev.json
+G:\CS_F2020\COMS 201 - F2020\Week 13\COMS201_LAB10\bin\Debug\netcoreapp3.1\COMS201_LAB10.dll
+G:\CS_F2020\COMS 201 - F2020\Week 13\COMS201_LAB10\bin\Debug\netcoreapp3.1\COMS201_LAB10.pdb
+G:\CS_F2020\COMS 201 - F2020\Week 13\COMS201_LAB10\bin\Debug\netcoreapp3.1\COMS201_LAB10.Views.dll
+G:\CS_F2020\COMS 201 - F2020\Week 13\COMS201_LAB10\bin\Debug\netcoreapp3.1\COMS201_LAB10.Views.pdb
+G:\CS_F2020\COMS 201 - F2020\Week 13\COMS201_LAB10\obj\Debug\netcoreapp3.1\COMS201_LAB10.csprojAssemblyReference.cache
+G:\CS_F2020\COMS 201 - F2020\Week 13\COMS201_LAB10\obj\Debug\netcoreapp3.1\COMS201_LAB10.AssemblyInfoInputs.cache
+G:\CS_F2020\COMS 201 - F2020\Week 13\COMS201_LAB10\obj\Debug\netcoreapp3.1\COMS201_LAB10.AssemblyInfo.cs
+G:\CS_F2020\COMS 201 - F2020\Week 13\COMS201_LAB10\obj\Debug\netcoreapp3.1\COMS201_LAB10.csproj.CoreCompileInputs.cache
+G:\CS_F2020\COMS 201 - F2020\Week 13\COMS201_LAB10\obj\Debug\netcoreapp3.1\COMS201_LAB10.MvcApplicationPartsAssemblyInfo.cache
+G:\CS_F2020\COMS 201 - F2020\Week 13\COMS201_LAB10\obj\Debug\netcoreapp3.1\COMS201_LAB10.RazorAssemblyInfo.cache
+G:\CS_F2020\COMS 201 - F2020\Week 13\COMS201_LAB10\obj\Debug\netcoreapp3.1\COMS201_LAB10.RazorAssemblyInfo.cs
+G:\CS_F2020\COMS 201 - F2020\Week 13\COMS201_LAB10\obj\Debug\netcoreapp3.1\staticwebassets\COMS201_LAB10.StaticWebAssets.Manifest.cache
+G:\CS_F2020\COMS 201 - F2020\Week 13\COMS201_LAB10\obj\Debug\netcoreapp3.1\staticwebassets\COMS201_LAB10.StaticWebAssets.xml
+G:\CS_F2020\COMS 201 - F2020\Week 13\COMS201_LAB10\obj\Debug\netcoreapp3.1\scopedcss\bundle\COMS201_LAB10.styles.css
+G:\CS_F2020\COMS 201 - F2020\Week 13\COMS201_LAB10\obj\Debug\netcoreapp3.1\COMS201_LAB10.TagHelpers.input.cache
+G:\CS_F2020\COMS 201 - F2020\Week 13\COMS201_LAB10\obj\Debug\netcoreapp3.1\COMS201_LAB10.TagHelpers.output.cache
+G:\CS_F2020\COMS 201 - F2020\Week 13\COMS201_LAB10\obj\Debug\netcoreapp3.1\COMS201_LAB10.RazorCoreGenerate.cache
+G:\CS_F2020\COMS 201 - F2020\Week 13\COMS201_LAB10\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+G:\CS_F2020\COMS 201 - F2020\Week 13\COMS201_LAB10\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\CS_F2020\COMS 201 - F2020\Week 13\COMS201_LAB10\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\CS_F2020\COMS 201 - F2020\Week 13\COMS201_LAB10\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+G:\CS_F2020\COMS 201 - F2020\Week 13\COMS201_LAB10\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+G:\CS_F2020\COMS 201 - F2020\Week 13\COMS201_LAB10\obj\Debug\netcoreapp3.1\COMS201_LAB10.RazorTargetAssemblyInfo.cache
+G:\CS_F2020\COMS 201 - F2020\Week 13\COMS201_LAB10\obj\Debug\netcoreapp3.1\COMS201_LAB10.RazorTargetAssemblyInfo.cs
+G:\CS_F2020\COMS 201 - F2020\Week 13\COMS201_LAB10\obj\Debug\netcoreapp3.1\COMS201_LAB10.Views.pdb
+G:\CS_F2020\COMS 201 - F2020\Week 13\COMS201_LAB10\obj\Debug\netcoreapp3.1\COMS201_LAB10.dll
+G:\CS_F2020\COMS 201 - F2020\Week 13\COMS201_LAB10\obj\Debug\netcoreapp3.1\COMS201_LAB10.pdb
+G:\CS_F2020\COMS 201 - F2020\Week 13\COMS201_LAB10\obj\Debug\netcoreapp3.1\COMS201_LAB10.genruntimeconfig.cache
+G:\CS_F2020\COMS 201 - F2020\Week 13\COMS201_LAB10\obj\Debug\netcoreapp3.1\COMS201_LAB10.csproj.CopyComplete
+C:\Users\migue\Downloads\COMS201_LAB10\obj\Debug\netcoreapp3.1\COMS201_LAB10.csprojAssemblyReference.cache
+C:\Users\migue\Downloads\COMS201_LAB10\obj\Debug\netcoreapp3.1\COMS201_LAB10.AssemblyInfoInputs.cache
+C:\Users\migue\Downloads\COMS201_LAB10\obj\Debug\netcoreapp3.1\COMS201_LAB10.AssemblyInfo.cs
+C:\Users\migue\Downloads\COMS201_LAB10\obj\Debug\netcoreapp3.1\COMS201_LAB10.csproj.CoreCompileInputs.cache
+C:\Users\migue\Downloads\COMS201_LAB10\obj\Debug\netcoreapp3.1\COMS201_LAB10.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\migue\Downloads\COMS201_LAB10\obj\Debug\netcoreapp3.1\COMS201_LAB10.RazorAssemblyInfo.cache
+C:\Users\migue\Downloads\COMS201_LAB10\obj\Debug\netcoreapp3.1\COMS201_LAB10.RazorAssemblyInfo.cs
+C:\Users\migue\Downloads\COMS201_LAB10\obj\Debug\netcoreapp3.1\COMS201_LAB10.dll
+C:\Users\migue\Downloads\COMS201_LAB10\obj\Debug\netcoreapp3.1\COMS201_LAB10.pdb

@@ -1,0 +1,21 @@
+C:\Users\cmerritt\Desktop\CS_F2020\COMS 201 - F2020\Week 10\Concepts2Code\obj\Debug\netstandard2.0\Concepts2Code.csprojAssemblyReference.cache
+C:\Users\cmerritt\Desktop\CS_F2020\COMS 201 - F2020\Week 10\Concepts2Code\obj\Debug\netstandard2.0\Concepts2Code.AssemblyInfoInputs.cache
+C:\Users\cmerritt\Desktop\CS_F2020\COMS 201 - F2020\Week 10\Concepts2Code\obj\Debug\netstandard2.0\Concepts2Code.AssemblyInfo.cs
+C:\Users\cmerritt\Desktop\CS_F2020\COMS 201 - F2020\Week 10\Concepts2Code\obj\Debug\netstandard2.0\Concepts2Code.csproj.CoreCompileInputs.cache
+F:\CS_F2020\COMS 201 - F2020\Week 10\LAB_7\Concepts2Code\obj\Debug\netstandard2.0\Concepts2Code.AssemblyInfoInputs.cache
+F:\CS_F2020\COMS 201 - F2020\Week 10\LAB_7\Concepts2Code\obj\Debug\netstandard2.0\Concepts2Code.AssemblyInfo.cs
+F:\CS_F2020\COMS 201 - F2020\Week 10\LAB_7\Concepts2Code\obj\Debug\netstandard2.0\Concepts2Code.csproj.CoreCompileInputs.cache
+F:\CS_F2020\COMS 201 - F2020\Week 10\LAB_7\Concepts2Code\bin\Debug\netstandard2.0\Concepts2Code.deps.json
+F:\CS_F2020\COMS 201 - F2020\Week 10\LAB_7\Concepts2Code\bin\Debug\netstandard2.0\Concepts2Code.dll
+F:\CS_F2020\COMS 201 - F2020\Week 10\LAB_7\Concepts2Code\bin\Debug\netstandard2.0\Concepts2Code.pdb
+F:\CS_F2020\COMS 201 - F2020\Week 10\LAB_7\Concepts2Code\obj\Debug\netstandard2.0\Concepts2Code.dll
+F:\CS_F2020\COMS 201 - F2020\Week 10\LAB_7\Concepts2Code\obj\Debug\netstandard2.0\Concepts2Code.pdb
+C:\Users\migue\Downloads\COMS201_LAB7\Concepts2Code\bin\Debug\netstandard2.0\Concepts2Code.deps.json
+C:\Users\migue\Downloads\COMS201_LAB7\Concepts2Code\bin\Debug\netstandard2.0\Concepts2Code.dll
+C:\Users\migue\Downloads\COMS201_LAB7\Concepts2Code\bin\Debug\netstandard2.0\Concepts2Code.pdb
+C:\Users\migue\Downloads\COMS201_LAB7\Concepts2Code\obj\Debug\netstandard2.0\Concepts2Code.csprojAssemblyReference.cache
+C:\Users\migue\Downloads\COMS201_LAB7\Concepts2Code\obj\Debug\netstandard2.0\Concepts2Code.AssemblyInfoInputs.cache
+C:\Users\migue\Downloads\COMS201_LAB7\Concepts2Code\obj\Debug\netstandard2.0\Concepts2Code.AssemblyInfo.cs
+C:\Users\migue\Downloads\COMS201_LAB7\Concepts2Code\obj\Debug\netstandard2.0\Concepts2Code.csproj.CoreCompileInputs.cache
+C:\Users\migue\Downloads\COMS201_LAB7\Concepts2Code\obj\Debug\netstandard2.0\Concepts2Code.dll
+C:\Users\migue\Downloads\COMS201_LAB7\Concepts2Code\obj\Debug\netstandard2.0\Concepts2Code.pdb

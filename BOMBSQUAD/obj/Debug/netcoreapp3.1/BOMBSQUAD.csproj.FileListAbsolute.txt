@@ -1,0 +1,78 @@
+D:\Git\BOMBSQUAD\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Git\BOMBSQUAD\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Git\BOMBSQUAD\bin\Debug\netcoreapp3.1\BOMBSQUAD.exe
+D:\Git\BOMBSQUAD\bin\Debug\netcoreapp3.1\BOMBSQUAD.deps.json
+D:\Git\BOMBSQUAD\bin\Debug\netcoreapp3.1\BOMBSQUAD.runtimeconfig.json
+D:\Git\BOMBSQUAD\bin\Debug\netcoreapp3.1\BOMBSQUAD.runtimeconfig.dev.json
+D:\Git\BOMBSQUAD\bin\Debug\netcoreapp3.1\BOMBSQUAD.dll
+D:\Git\BOMBSQUAD\bin\Debug\netcoreapp3.1\BOMBSQUAD.pdb
+D:\Git\BOMBSQUAD\bin\Debug\netcoreapp3.1\BOMBSQUAD.Views.dll
+D:\Git\BOMBSQUAD\bin\Debug\netcoreapp3.1\BOMBSQUAD.Views.pdb
+D:\Git\BOMBSQUAD\obj\Debug\netcoreapp3.1\BOMBSQUAD.AssemblyInfoInputs.cache
+D:\Git\BOMBSQUAD\obj\Debug\netcoreapp3.1\BOMBSQUAD.AssemblyInfo.cs
+D:\Git\BOMBSQUAD\obj\Debug\netcoreapp3.1\BOMBSQUAD.csproj.CoreCompileInputs.cache
+D:\Git\BOMBSQUAD\obj\Debug\netcoreapp3.1\BOMBSQUAD.MvcApplicationPartsAssemblyInfo.cache
+D:\Git\BOMBSQUAD\obj\Debug\netcoreapp3.1\BOMBSQUAD.RazorAssemblyInfo.cache
+D:\Git\BOMBSQUAD\obj\Debug\netcoreapp3.1\BOMBSQUAD.RazorAssemblyInfo.cs
+D:\Git\BOMBSQUAD\obj\Debug\netcoreapp3.1\staticwebassets\BOMBSQUAD.StaticWebAssets.Manifest.cache
+D:\Git\BOMBSQUAD\obj\Debug\netcoreapp3.1\staticwebassets\BOMBSQUAD.StaticWebAssets.xml
+D:\Git\BOMBSQUAD\obj\Debug\netcoreapp3.1\scopedcss\bundle\BOMBSQUAD.styles.css
+D:\Git\BOMBSQUAD\obj\Debug\netcoreapp3.1\BOMBSQUAD.TagHelpers.input.cache
+D:\Git\BOMBSQUAD\obj\Debug\netcoreapp3.1\BOMBSQUAD.TagHelpers.output.cache
+D:\Git\BOMBSQUAD\obj\Debug\netcoreapp3.1\BOMBSQUAD.RazorCoreGenerate.cache
+D:\Git\BOMBSQUAD\obj\Debug\netcoreapp3.1\Razor\Views\Home\Game.cshtml.g.cs
+D:\Git\BOMBSQUAD\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Git\BOMBSQUAD\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Git\BOMBSQUAD\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Git\BOMBSQUAD\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Git\BOMBSQUAD\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Git\BOMBSQUAD\obj\Debug\netcoreapp3.1\BOMBSQUAD.RazorTargetAssemblyInfo.cache
+D:\Git\BOMBSQUAD\obj\Debug\netcoreapp3.1\BOMBSQUAD.RazorTargetAssemblyInfo.cs
+D:\Git\BOMBSQUAD\obj\Debug\netcoreapp3.1\BOMBSQUAD.Views.pdb
+D:\Git\BOMBSQUAD\obj\Debug\netcoreapp3.1\BOMBSQUAD.dll
+D:\Git\BOMBSQUAD\obj\Debug\netcoreapp3.1\BOMBSQUAD.pdb
+D:\Git\BOMBSQUAD\obj\Debug\netcoreapp3.1\BOMBSQUAD.genruntimeconfig.cache
+D:\Git\BOMBSQUAD\obj\Debug\netcoreapp3.1\BOMBSQUAD.csproj.CopyComplete
+G:\CS_F2020\COMS 201 - F2020\BOMBSQUAD\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\CS_F2020\COMS 201 - F2020\BOMBSQUAD\bin\Debug\netcoreapp3.1\appsettings.json
+G:\CS_F2020\COMS 201 - F2020\BOMBSQUAD\bin\Debug\netcoreapp3.1\BOMBSQUAD.exe
+G:\CS_F2020\COMS 201 - F2020\BOMBSQUAD\bin\Debug\netcoreapp3.1\BOMBSQUAD.deps.json
+G:\CS_F2020\COMS 201 - F2020\BOMBSQUAD\bin\Debug\netcoreapp3.1\BOMBSQUAD.runtimeconfig.json
+G:\CS_F2020\COMS 201 - F2020\BOMBSQUAD\bin\Debug\netcoreapp3.1\BOMBSQUAD.runtimeconfig.dev.json
+G:\CS_F2020\COMS 201 - F2020\BOMBSQUAD\bin\Debug\netcoreapp3.1\BOMBSQUAD.dll
+G:\CS_F2020\COMS 201 - F2020\BOMBSQUAD\bin\Debug\netcoreapp3.1\BOMBSQUAD.pdb
+G:\CS_F2020\COMS 201 - F2020\BOMBSQUAD\bin\Debug\netcoreapp3.1\BOMBSQUAD.Views.dll
+G:\CS_F2020\COMS 201 - F2020\BOMBSQUAD\bin\Debug\netcoreapp3.1\BOMBSQUAD.Views.pdb
+G:\CS_F2020\COMS 201 - F2020\BOMBSQUAD\obj\Debug\netcoreapp3.1\BOMBSQUAD.AssemblyInfoInputs.cache
+G:\CS_F2020\COMS 201 - F2020\BOMBSQUAD\obj\Debug\netcoreapp3.1\BOMBSQUAD.AssemblyInfo.cs
+G:\CS_F2020\COMS 201 - F2020\BOMBSQUAD\obj\Debug\netcoreapp3.1\BOMBSQUAD.csproj.CoreCompileInputs.cache
+G:\CS_F2020\COMS 201 - F2020\BOMBSQUAD\obj\Debug\netcoreapp3.1\BOMBSQUAD.MvcApplicationPartsAssemblyInfo.cache
+G:\CS_F2020\COMS 201 - F2020\BOMBSQUAD\obj\Debug\netcoreapp3.1\BOMBSQUAD.RazorAssemblyInfo.cache
+G:\CS_F2020\COMS 201 - F2020\BOMBSQUAD\obj\Debug\netcoreapp3.1\BOMBSQUAD.RazorAssemblyInfo.cs
+G:\CS_F2020\COMS 201 - F2020\BOMBSQUAD\obj\Debug\netcoreapp3.1\staticwebassets\BOMBSQUAD.StaticWebAssets.Manifest.cache
+G:\CS_F2020\COMS 201 - F2020\BOMBSQUAD\obj\Debug\netcoreapp3.1\staticwebassets\BOMBSQUAD.StaticWebAssets.xml
+G:\CS_F2020\COMS 201 - F2020\BOMBSQUAD\obj\Debug\netcoreapp3.1\scopedcss\bundle\BOMBSQUAD.styles.css
+G:\CS_F2020\COMS 201 - F2020\BOMBSQUAD\obj\Debug\netcoreapp3.1\BOMBSQUAD.TagHelpers.input.cache
+G:\CS_F2020\COMS 201 - F2020\BOMBSQUAD\obj\Debug\netcoreapp3.1\BOMBSQUAD.TagHelpers.output.cache
+G:\CS_F2020\COMS 201 - F2020\BOMBSQUAD\obj\Debug\netcoreapp3.1\BOMBSQUAD.RazorCoreGenerate.cache
+G:\CS_F2020\COMS 201 - F2020\BOMBSQUAD\obj\Debug\netcoreapp3.1\Razor\Views\Home\Game.cshtml.g.cs
+G:\CS_F2020\COMS 201 - F2020\BOMBSQUAD\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+G:\CS_F2020\COMS 201 - F2020\BOMBSQUAD\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\CS_F2020\COMS 201 - F2020\BOMBSQUAD\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\CS_F2020\COMS 201 - F2020\BOMBSQUAD\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+G:\CS_F2020\COMS 201 - F2020\BOMBSQUAD\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+G:\CS_F2020\COMS 201 - F2020\BOMBSQUAD\obj\Debug\netcoreapp3.1\BOMBSQUAD.RazorTargetAssemblyInfo.cache
+G:\CS_F2020\COMS 201 - F2020\BOMBSQUAD\obj\Debug\netcoreapp3.1\BOMBSQUAD.RazorTargetAssemblyInfo.cs
+G:\CS_F2020\COMS 201 - F2020\BOMBSQUAD\obj\Debug\netcoreapp3.1\BOMBSQUAD.Views.pdb
+G:\CS_F2020\COMS 201 - F2020\BOMBSQUAD\obj\Debug\netcoreapp3.1\BOMBSQUAD.dll
+G:\CS_F2020\COMS 201 - F2020\BOMBSQUAD\obj\Debug\netcoreapp3.1\BOMBSQUAD.pdb
+G:\CS_F2020\COMS 201 - F2020\BOMBSQUAD\obj\Debug\netcoreapp3.1\BOMBSQUAD.genruntimeconfig.cache
+G:\CS_F2020\COMS 201 - F2020\BOMBSQUAD\obj\Debug\netcoreapp3.1\BOMBSQUAD.csproj.CopyComplete
+G:\CS_F2020\COMS 201 - F2020\BOMBSQUAD\obj\Debug\netcoreapp3.1\BOMBSQUAD.csprojAssemblyReference.cache
+C:\Users\migue\Downloads\BOMBSQUAD\obj\Debug\netcoreapp3.1\BOMBSQUAD.csprojAssemblyReference.cache
+C:\Users\migue\Downloads\BOMBSQUAD\obj\Debug\netcoreapp3.1\BOMBSQUAD.AssemblyInfoInputs.cache
+C:\Users\migue\Downloads\BOMBSQUAD\obj\Debug\netcoreapp3.1\BOMBSQUAD.AssemblyInfo.cs
+C:\Users\migue\Downloads\BOMBSQUAD\obj\Debug\netcoreapp3.1\BOMBSQUAD.csproj.CoreCompileInputs.cache
+C:\Users\migue\Downloads\BOMBSQUAD\obj\Debug\netcoreapp3.1\BOMBSQUAD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\migue\Downloads\BOMBSQUAD\obj\Debug\netcoreapp3.1\BOMBSQUAD.RazorAssemblyInfo.cache
+C:\Users\migue\Downloads\BOMBSQUAD\obj\Debug\netcoreapp3.1\BOMBSQUAD.RazorAssemblyInfo.cs

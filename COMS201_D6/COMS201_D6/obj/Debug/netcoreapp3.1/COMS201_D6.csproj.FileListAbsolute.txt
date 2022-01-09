@@ -1,0 +1,13 @@
+F:\CS_F2020\COMS 201 - F2020\Week 06\COMS201_D6\bin\Debug\netcoreapp3.1\COMS201_D6.exe
+F:\CS_F2020\COMS 201 - F2020\Week 06\COMS201_D6\bin\Debug\netcoreapp3.1\COMS201_D6.deps.json
+F:\CS_F2020\COMS 201 - F2020\Week 06\COMS201_D6\bin\Debug\netcoreapp3.1\COMS201_D6.runtimeconfig.json
+F:\CS_F2020\COMS 201 - F2020\Week 06\COMS201_D6\bin\Debug\netcoreapp3.1\COMS201_D6.runtimeconfig.dev.json
+F:\CS_F2020\COMS 201 - F2020\Week 06\COMS201_D6\bin\Debug\netcoreapp3.1\COMS201_D6.dll
+F:\CS_F2020\COMS 201 - F2020\Week 06\COMS201_D6\bin\Debug\netcoreapp3.1\COMS201_D6.pdb
+F:\CS_F2020\COMS 201 - F2020\Week 06\COMS201_D6\obj\Debug\netcoreapp3.1\COMS201_D6.csprojAssemblyReference.cache
+F:\CS_F2020\COMS 201 - F2020\Week 06\COMS201_D6\obj\Debug\netcoreapp3.1\COMS201_D6.AssemblyInfoInputs.cache
+F:\CS_F2020\COMS 201 - F2020\Week 06\COMS201_D6\obj\Debug\netcoreapp3.1\COMS201_D6.AssemblyInfo.cs
+F:\CS_F2020\COMS 201 - F2020\Week 06\COMS201_D6\obj\Debug\netcoreapp3.1\COMS201_D6.csproj.CoreCompileInputs.cache
+F:\CS_F2020\COMS 201 - F2020\Week 06\COMS201_D6\obj\Debug\netcoreapp3.1\COMS201_D6.dll
+F:\CS_F2020\COMS 201 - F2020\Week 06\COMS201_D6\obj\Debug\netcoreapp3.1\COMS201_D6.pdb
+F:\CS_F2020\COMS 201 - F2020\Week 06\COMS201_D6\obj\Debug\netcoreapp3.1\COMS201_D6.genruntimeconfig.cache

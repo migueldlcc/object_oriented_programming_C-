@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "lFTyypEbS3h8ExX6z1MoFSbstDhZigloo+g8QaK9MZ1YeRlJuPn17neKqwC7Ly6px9yWt4wx6xMKM4DQ1995sA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\migue\\Downloads\\COMS201_LAB2\\COMS201_LAB2\\ShapeCalculator\\ShapeCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\migue\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\migue\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\migue\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\migue\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
